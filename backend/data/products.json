@@ -1,0 +1,802 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Mouse",
+    "price": 79.99,
+    "categoryId": "electronics",
+    "stock": 12,
+    "description": "Ergonomic 2.4 GHz mouse with a silent click and 18-month battery life."
+  },
+  {
+    "id": 2,
+    "name": "Clean Code",
+    "price": 89.99,
+    "categoryId": "books",
+    "stock": 1,
+    "description": "A handbook of agile software craftsmanship."
+  },
+  {
+    "id": 3,
+    "name": "French Press 1 L",
+    "price": 89.99,
+    "categoryId": "home-kitchen",
+    "stock": 3,
+    "description": "Borosilicate glass coffee press with a stainless steel filter."
+  },
+  {
+    "id": 4,
+    "name": "Yoga Mat",
+    "price": 89.99,
+    "categoryId": "sports",
+    "stock": 15,
+    "description": "Non-slip 6 mm mat with a carrying strap."
+  },
+  {
+    "id": 5,
+    "name": "Building Blocks 500 pcs",
+    "price": 149.99,
+    "categoryId": "toys",
+    "stock": 2,
+    "description": "Classic interlocking bricks in 20 colours."
+  },
+  {
+    "id": 6,
+    "name": "Mechanical Keyboard",
+    "price": 349,
+    "categoryId": "electronics",
+    "stock": 0,
+    "description": "Tenkeyless keyboard with hot-swappable brown switches and white backlight."
+  },
+  {
+    "id": 7,
+    "name": "The Pragmatic Programmer",
+    "price": 99.99,
+    "categoryId": "books",
+    "stock": 25,
+    "description": "Your journey to mastery, 20th anniversary edition."
+  },
+  {
+    "id": 8,
+    "name": "Electric Kettle",
+    "price": 129,
+    "categoryId": "home-kitchen",
+    "stock": 40,
+    "description": "1.7 L kettle with temperature control and keep-warm mode."
+  },
+  {
+    "id": 9,
+    "name": "Adjustable Dumbbells",
+    "price": 599,
+    "categoryId": "sports",
+    "stock": 0,
+    "description": "Pair of dumbbells adjustable from 2 to 24 kg."
+  },
+  {
+    "id": 10,
+    "name": "Wooden Train Set",
+    "price": 199,
+    "categoryId": "toys",
+    "stock": 30,
+    "description": "50-piece railway set compatible with major brands."
+  },
+  {
+    "id": 11,
+    "name": "USB-C Hub 7-in-1",
+    "price": 149.99,
+    "categoryId": "electronics",
+    "stock": 5,
+    "description": "HDMI 4K, three USB-A ports, SD card reader and 100 W power delivery."
+  },
+  {
+    "id": 12,
+    "name": "Design Patterns",
+    "price": 129,
+    "categoryId": "books",
+    "stock": 8,
+    "description": "Elements of reusable object-oriented software."
+  },
+  {
+    "id": 13,
+    "name": "Chef's Knife",
+    "price": 199.99,
+    "categoryId": "home-kitchen",
+    "stock": 1,
+    "description": "20 cm forged stainless steel knife with a full tang."
+  },
+  {
+    "id": 14,
+    "name": "Running Shoes",
+    "price": 399,
+    "categoryId": "sports",
+    "stock": 7,
+    "description": "Lightweight cushioned shoes for road running."
+  },
+  {
+    "id": 15,
+    "name": "Jigsaw Puzzle 1000 pcs",
+    "price": 59.99,
+    "categoryId": "toys",
+    "stock": 6,
+    "description": "Landscape puzzle with a reference poster."
+  },
+  {
+    "id": 16,
+    "name": "Noise Cancelling Headphones",
+    "price": 899,
+    "categoryId": "electronics",
+    "stock": 1,
+    "description": "Over-ear headphones with active noise cancelling and 30 hours of playback."
+  },
+  {
+    "id": 17,
+    "name": "Refactoring",
+    "price": 119,
+    "categoryId": "books",
+    "stock": 3,
+    "description": "Improving the design of existing code, second edition."
+  },
+  {
+    "id": 18,
+    "name": "Cast Iron Skillet",
+    "price": 149.99,
+    "categoryId": "home-kitchen",
+    "stock": 15,
+    "description": "Pre-seasoned 26 cm skillet for stove, oven and campfire."
+  },
+  {
+    "id": 19,
+    "name": "Water Bottle 750 ml",
+    "price": 49.99,
+    "categoryId": "sports",
+    "stock": 2,
+    "description": "Insulated stainless steel bottle that keeps drinks cold for 24 hours."
+  },
+  {
+    "id": 20,
+    "name": "Chess Set",
+    "price": 129,
+    "categoryId": "toys",
+    "stock": 1,
+    "description": "Wooden board with weighted pieces, 40 cm."
+  },
+  {
+    "id": 21,
+    "name": "Bluetooth Speaker",
+    "price": 199.99,
+    "categoryId": "electronics",
+    "stock": 25,
+    "description": "Waterproof portable speaker with 12 hours of battery life."
+  },
+  {
+    "id": 22,
+    "name": "You Don't Know JS Yet",
+    "price": 59.99,
+    "categoryId": "books",
+    "stock": 40,
+    "description": "A deep dive into the core mechanisms of JavaScript."
+  },
+  {
+    "id": 23,
+    "name": "Coffee Grinder",
+    "price": 249,
+    "categoryId": "home-kitchen",
+    "stock": 0,
+    "description": "Conical burr grinder with 30 grind settings."
+  },
+  {
+    "id": 24,
+    "name": "Resistance Bands (Set of 5)",
+    "price": 59.99,
+    "categoryId": "sports",
+    "stock": 30,
+    "description": "Latex bands from light to extra heavy resistance."
+  },
+  {
+    "id": 25,
+    "name": "Remote Control Car",
+    "price": 249,
+    "categoryId": "toys",
+    "stock": 20,
+    "description": "1:16 off-road car with a rechargeable battery."
+  },
+  {
+    "id": 26,
+    "name": "27\" 4K Monitor",
+    "price": 1499,
+    "categoryId": "electronics",
+    "stock": 8,
+    "description": "IPS panel, 60 Hz, USB-C with 65 W charging and a height-adjustable stand."
+  },
+  {
+    "id": 27,
+    "name": "Eloquent JavaScript",
+    "price": 79.99,
+    "categoryId": "books",
+    "stock": 1,
+    "description": "A modern introduction to programming."
+  },
+  {
+    "id": 28,
+    "name": "Bamboo Cutting Board",
+    "price": 49.99,
+    "categoryId": "home-kitchen",
+    "stock": 7,
+    "description": "Large reversible board with a juice groove."
+  },
+  {
+    "id": 29,
+    "name": "Camping Tent 2-Person",
+    "price": 499,
+    "categoryId": "sports",
+    "stock": 6,
+    "description": "Lightweight double-wall tent, waterproof to 3000 mm."
+  },
+  {
+    "id": 30,
+    "name": "Plush Teddy Bear",
+    "price": 79.99,
+    "categoryId": "toys",
+    "stock": 4,
+    "description": "Soft 40 cm bear, washable at 30 degrees C."
+  },
+  {
+    "id": 31,
+    "name": "Webcam Full HD",
+    "price": 249,
+    "categoryId": "electronics",
+    "stock": 3,
+    "description": "1080p webcam with dual microphones and a privacy shutter."
+  },
+  {
+    "id": 32,
+    "name": "Domain-Driven Design",
+    "price": 149,
+    "categoryId": "books",
+    "stock": 15,
+    "description": "Tackling complexity in the heart of software."
+  },
+  {
+    "id": 33,
+    "name": "Stand Mixer",
+    "price": 1299,
+    "categoryId": "home-kitchen",
+    "stock": 2,
+    "description": "5 L bowl, 10 speeds, dough hook, whisk and beater included."
+  },
+  {
+    "id": 34,
+    "name": "Sleeping Bag",
+    "price": 299,
+    "categoryId": "sports",
+    "stock": 1,
+    "description": "Mummy sleeping bag rated to -5 degrees C."
+  },
+  {
+    "id": 35,
+    "name": "Board Game: Catan",
+    "price": 179,
+    "categoryId": "toys",
+    "stock": 9,
+    "description": "Trade, build and settle the island of Catan."
+  },
+  {
+    "id": 36,
+    "name": "Portable SSD 1 TB",
+    "price": 399.99,
+    "categoryId": "electronics",
+    "stock": 40,
+    "description": "Pocket-sized drive with read speeds up to 1050 MB/s."
+  },
+  {
+    "id": 37,
+    "name": "Working Effectively with Legacy Code",
+    "price": 129,
+    "categoryId": "books",
+    "stock": 0,
+    "description": "Techniques for safely changing code without tests."
+  },
+  {
+    "id": 38,
+    "name": "Air Fryer",
+    "price": 449,
+    "categoryId": "home-kitchen",
+    "stock": 30,
+    "description": "5.5 L air fryer with eight presets."
+  },
+  {
+    "id": 39,
+    "name": "Hiking Backpack 40 L",
+    "price": 349,
+    "categoryId": "sports",
+    "stock": 20,
+    "description": "Ventilated back panel, rain cover and hydration sleeve."
+  },
+  {
+    "id": 40,
+    "name": "Card Game: Uno",
+    "price": 29.99,
+    "categoryId": "toys",
+    "stock": 10,
+    "description": "The classic colour and number matching game."
+  },
+  {
+    "id": 41,
+    "name": "Smartwatch",
+    "price": 999,
+    "categoryId": "electronics",
+    "stock": 1,
+    "description": "AMOLED display, heart rate monitor, GPS and 7-day battery life."
+  },
+  {
+    "id": 42,
+    "name": "Designing Data-Intensive Applications",
+    "price": 159,
+    "categoryId": "books",
+    "stock": 7,
+    "description": "The big ideas behind reliable, scalable and maintainable systems."
+  },
+  {
+    "id": 43,
+    "name": "Glass Food Containers (Set of 5)",
+    "price": 79.99,
+    "categoryId": "home-kitchen",
+    "stock": 6,
+    "description": "Oven-safe containers with airtight lids."
+  },
+  {
+    "id": 44,
+    "name": "Jump Rope",
+    "price": 39.99,
+    "categoryId": "sports",
+    "stock": 4,
+    "description": "Speed rope with ball bearings and an adjustable cable."
+  },
+  {
+    "id": 45,
+    "name": "Drone Mini",
+    "price": 299,
+    "categoryId": "toys",
+    "stock": 12,
+    "description": "Beginner-friendly drone with altitude hold and a 720p camera."
+  },
+  {
+    "id": 46,
+    "name": "Power Bank 20000 mAh",
+    "price": 149.99,
+    "categoryId": "electronics",
+    "stock": 15,
+    "description": "Fast charging power bank with two USB-C ports."
+  },
+  {
+    "id": 47,
+    "name": "Learning TypeScript",
+    "price": 89.99,
+    "categoryId": "books",
+    "stock": 2,
+    "description": "Enhance your web development skills using type-safe JavaScript."
+  },
+  {
+    "id": 48,
+    "name": "Scented Candle",
+    "price": 39.99,
+    "categoryId": "home-kitchen",
+    "stock": 1,
+    "description": "Soy wax candle with a cedar and vanilla scent, 40 hours."
+  },
+  {
+    "id": 49,
+    "name": "Foam Roller",
+    "price": 69.99,
+    "categoryId": "sports",
+    "stock": 9,
+    "description": "High-density roller for muscle recovery, 45 cm."
+  },
+  {
+    "id": 50,
+    "name": "Science Kit",
+    "price": 119,
+    "categoryId": "toys",
+    "stock": 0,
+    "description": "30 experiments in chemistry and physics for ages 8+."
+  },
+  {
+    "id": 51,
+    "name": "Wireless Charger",
+    "price": 79.99,
+    "categoryId": "electronics",
+    "stock": 0,
+    "description": "15 W Qi charging pad with a non-slip surface."
+  },
+  {
+    "id": 52,
+    "name": "Programming TypeScript",
+    "price": 99.99,
+    "categoryId": "books",
+    "stock": 30,
+    "description": "Making your JavaScript applications scale."
+  },
+  {
+    "id": 53,
+    "name": "Linen Tablecloth",
+    "price": 119,
+    "categoryId": "home-kitchen",
+    "stock": 20,
+    "description": "Stonewashed linen tablecloth, 140 x 200 cm."
+  },
+  {
+    "id": 54,
+    "name": "Cycling Helmet",
+    "price": 249,
+    "categoryId": "sports",
+    "stock": 10,
+    "description": "Ventilated helmet with a rear LED light."
+  },
+  {
+    "id": 55,
+    "name": "Magnetic Tiles 60 pcs",
+    "price": 229,
+    "categoryId": "toys",
+    "stock": 5,
+    "description": "Translucent magnetic tiles for 3D building."
+  },
+  {
+    "id": 56,
+    "name": "Gaming Headset",
+    "price": 299,
+    "categoryId": "electronics",
+    "stock": 7,
+    "description": "Surround sound headset with a detachable microphone."
+  },
+  {
+    "id": 57,
+    "name": "Don't Make Me Think",
+    "price": 69.99,
+    "categoryId": "books",
+    "stock": 6,
+    "description": "A common sense approach to web usability."
+  },
+  {
+    "id": 58,
+    "name": "Desk Lamp",
+    "price": 159,
+    "categoryId": "home-kitchen",
+    "stock": 4,
+    "description": "LED lamp with adjustable colour temperature and a USB port."
+  },
+  {
+    "id": 59,
+    "name": "Bike Lock",
+    "price": 129,
+    "categoryId": "sports",
+    "stock": 12,
+    "description": "Hardened steel U-lock with a mounting bracket."
+  },
+  {
+    "id": 60,
+    "name": "Rubik's Cube",
+    "price": 39.99,
+    "categoryId": "toys",
+    "stock": 1,
+    "description": "The original 3x3 puzzle cube."
+  },
+  {
+    "id": 61,
+    "name": "E-book Reader",
+    "price": 549,
+    "categoryId": "electronics",
+    "stock": 2,
+    "description": "6.8\" glare-free display with adjustable warm light."
+  },
+  {
+    "id": 62,
+    "name": "The Mythical Man-Month",
+    "price": 79.99,
+    "categoryId": "books",
+    "stock": 1,
+    "description": "Essays on software engineering."
+  },
+  {
+    "id": 63,
+    "name": "Robot Vacuum",
+    "price": 1199,
+    "categoryId": "home-kitchen",
+    "stock": 9,
+    "description": "Lidar navigation, app control and automatic recharging."
+  },
+  {
+    "id": 64,
+    "name": "Tennis Racket",
+    "price": 449,
+    "categoryId": "sports",
+    "stock": 0,
+    "description": "Graphite racket, 300 g, strung."
+  },
+  {
+    "id": 65,
+    "name": "Doll House",
+    "price": 449,
+    "categoryId": "toys",
+    "stock": 25,
+    "description": "Three-floor wooden doll house with furniture."
+  },
+  {
+    "id": 66,
+    "name": "Action Camera",
+    "price": 1199,
+    "categoryId": "electronics",
+    "stock": 30,
+    "description": "4K60 video, image stabilisation and waterproof to 10 metres."
+  },
+  {
+    "id": 67,
+    "name": "Code Complete",
+    "price": 149,
+    "categoryId": "books",
+    "stock": 20,
+    "description": "A practical handbook of software construction."
+  },
+  {
+    "id": 68,
+    "name": "Ceramic Mug Set",
+    "price": 69.99,
+    "categoryId": "home-kitchen",
+    "stock": 10,
+    "description": "Set of four 350 ml stoneware mugs."
+  },
+  {
+    "id": 69,
+    "name": "Football",
+    "price": 99.99,
+    "categoryId": "sports",
+    "stock": 5,
+    "description": "Size 5 match ball with thermally bonded panels."
+  },
+  {
+    "id": 70,
+    "name": "Kite",
+    "price": 59.99,
+    "categoryId": "toys",
+    "stock": 8,
+    "description": "Single-line delta kite for kids and beginners."
+  },
+  {
+    "id": 71,
+    "name": "Smart Plug",
+    "price": 49.99,
+    "categoryId": "electronics",
+    "stock": 6,
+    "description": "Wi-Fi plug with energy monitoring and schedules."
+  },
+  {
+    "id": 72,
+    "name": "Test-Driven Development by Example",
+    "price": 99.99,
+    "categoryId": "books",
+    "stock": 4,
+    "description": "Write clean code that works, one test at a time."
+  },
+  {
+    "id": 73,
+    "name": "Spice Rack",
+    "price": 89.99,
+    "categoryId": "home-kitchen",
+    "stock": 12,
+    "description": "Rotating rack with 16 refillable glass jars."
+  },
+  {
+    "id": 74,
+    "name": "Basketball",
+    "price": 119,
+    "categoryId": "sports",
+    "stock": 1,
+    "description": "Indoor and outdoor composite leather ball, size 7."
+  },
+  {
+    "id": 75,
+    "name": "Water Gun",
+    "price": 49.99,
+    "categoryId": "toys",
+    "stock": 3,
+    "description": "Pump-action water blaster with a 1 L tank."
+  },
+  {
+    "id": 76,
+    "name": "HDMI Cable 2 m",
+    "price": 29.99,
+    "categoryId": "electronics",
+    "stock": 1,
+    "description": "HDMI 2.1 cable supporting 8K and 48 Gbps."
+  },
+  {
+    "id": 77,
+    "name": "Accessibility for Everyone",
+    "price": 59.99,
+    "categoryId": "books",
+    "stock": 9,
+    "description": "A practical guide to inclusive web design."
+  },
+  {
+    "id": 78,
+    "name": "Toaster",
+    "price": 149.99,
+    "categoryId": "home-kitchen",
+    "stock": 0,
+    "description": "Two-slot toaster with defrost and reheat functions."
+  },
+  {
+    "id": 79,
+    "name": "Swimming Goggles",
+    "price": 59.99,
+    "categoryId": "sports",
+    "stock": 25,
+    "description": "Anti-fog goggles with UV protection."
+  },
+  {
+    "id": 80,
+    "name": "Play-Doh Set",
+    "price": 69.99,
+    "categoryId": "toys",
+    "stock": 40,
+    "description": "Twelve colours with moulds and tools."
+  },
+  {
+    "id": 81,
+    "name": "Laptop Stand",
+    "price": 129,
+    "categoryId": "electronics",
+    "stock": 20,
+    "description": "Adjustable aluminium stand for laptops up to 17\"."
+  },
+  {
+    "id": 82,
+    "name": "CSS: The Definitive Guide",
+    "price": 129,
+    "categoryId": "books",
+    "stock": 10,
+    "description": "Visual presentation for the web."
+  },
+  {
+    "id": 83,
+    "name": "Blender",
+    "price": 299,
+    "categoryId": "home-kitchen",
+    "stock": 5,
+    "description": "1000 W blender with a 1.5 L glass jug."
+  },
+  {
+    "id": 84,
+    "name": "Trekking Poles",
+    "price": 199.99,
+    "categoryId": "sports",
+    "stock": 8,
+    "description": "Pair of foldable aluminium poles with cork grips."
+  },
+  {
+    "id": 85,
+    "name": "Toy Kitchen",
+    "price": 599,
+    "categoryId": "toys",
+    "stock": 1,
+    "description": "Wooden play kitchen with sounds and lights."
+  },
+  {
+    "id": 86,
+    "name": "Graphics Tablet",
+    "price": 449,
+    "categoryId": "electronics",
+    "stock": 4,
+    "description": "Pen tablet with 8192 pressure levels and eight shortcut keys."
+  },
+  {
+    "id": 87,
+    "name": "High Performance Browser Networking",
+    "price": 89.99,
+    "categoryId": "books",
+    "stock": 12,
+    "description": "What every web developer should know about networking."
+  },
+  {
+    "id": 88,
+    "name": "Cotton Bath Towels (Set of 2)",
+    "price": 79.99,
+    "categoryId": "home-kitchen",
+    "stock": 1,
+    "description": "Soft 600 g/m2 towels, 70 x 140 cm."
+  },
+  {
+    "id": 89,
+    "name": "Headlamp",
+    "price": 89.99,
+    "categoryId": "sports",
+    "stock": 3,
+    "description": "400 lumen rechargeable headlamp with a red light mode."
+  },
+  {
+    "id": 90,
+    "name": "Marble Run",
+    "price": 149.99,
+    "categoryId": "toys",
+    "stock": 15,
+    "description": "120-piece marble run construction set."
+  },
+  {
+    "id": 91,
+    "name": "Wi-Fi Router",
+    "price": 399,
+    "categoryId": "electronics",
+    "stock": 9,
+    "description": "Dual-band Wi-Fi 6 router with four gigabit ports."
+  },
+  {
+    "id": 92,
+    "name": "Atomic Habits",
+    "price": 49.99,
+    "categoryId": "books",
+    "stock": 0,
+    "description": "An easy and proven way to build good habits and break bad ones."
+  },
+  {
+    "id": 93,
+    "name": "Wall Clock",
+    "price": 99.99,
+    "categoryId": "home-kitchen",
+    "stock": 25,
+    "description": "Silent minimalist clock, 30 cm diameter."
+  },
+  {
+    "id": 94,
+    "name": "Fitness Tracker",
+    "price": 249,
+    "categoryId": "sports",
+    "stock": 40,
+    "description": "Step, sleep and heart rate tracking with a 14-day battery."
+  },
+  {
+    "id": 95,
+    "name": "Dinosaur Figures (Set of 12)",
+    "price": 79.99,
+    "categoryId": "toys",
+    "stock": 0,
+    "description": "Realistic hand-painted dinosaur figures."
+  },
+  {
+    "id": 96,
+    "name": "Microphone USB",
+    "price": 349,
+    "categoryId": "electronics",
+    "stock": 10,
+    "description": "Cardioid condenser microphone for streaming and podcasts."
+  },
+  {
+    "id": 97,
+    "name": "The Phoenix Project",
+    "price": 59.99,
+    "categoryId": "books",
+    "stock": 5,
+    "description": "A novel about IT, DevOps and helping your business win."
+  },
+  {
+    "id": 98,
+    "name": "Herb Garden Kit",
+    "price": 59.99,
+    "categoryId": "home-kitchen",
+    "stock": 8,
+    "description": "Indoor kit with basil, parsley and mint seeds."
+  },
+  {
+    "id": 99,
+    "name": "Kettlebell 12 kg",
+    "price": 149.99,
+    "categoryId": "sports",
+    "stock": 1,
+    "description": "Cast iron kettlebell with a powder-coated finish."
+  },
+  {
+    "id": 100,
+    "name": "Coding Robot",
+    "price": 399,
+    "categoryId": "toys",
+    "stock": 7,
+    "description": "Screen-free coding robot that teaches programming basics."
+  }
+]

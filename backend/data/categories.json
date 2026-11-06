@@ -1,0 +1,22 @@
+[
+  {
+    "id": "electronics",
+    "name": "Electronics"
+  },
+  {
+    "id": "books",
+    "name": "Books"
+  },
+  {
+    "id": "home-kitchen",
+    "name": "Home & Kitchen"
+  },
+  {
+    "id": "sports",
+    "name": "Sports & Outdoors"
+  },
+  {
+    "id": "toys",
+    "name": "Toys & Games"
+  }
+]

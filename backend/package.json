@@ -1,0 +1,15 @@
+{
+  "name": "shop-api",
+  "version": "1.0.0",
+  "description": "Mock backend for the shop live-coding recruitment task",
+  "private": true,
+  "type": "module",
+  "main": "server.js",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test"
+  }
+}
